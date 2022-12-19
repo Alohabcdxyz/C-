@@ -1,0 +1,2 @@
+E:\jetbrain\practice\Solution1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\jetbrain\practice\Solution1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache

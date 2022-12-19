@@ -1,0 +1,2 @@
+E:\jetbrain\practice\Solution1\tinhGT\obj\Debug\tinhGT.csproj.AssemblyReference.cache
+E:\jetbrain\practice\Solution1\tinhGT\obj\Debug\tinhGT.csproj.SuggestedBindingRedirects.cache

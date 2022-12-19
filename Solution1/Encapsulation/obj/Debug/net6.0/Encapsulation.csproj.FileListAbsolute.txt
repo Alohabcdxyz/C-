@@ -1,0 +1,15 @@
+E:\jetbrain\practice\Solution1\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+E:\jetbrain\practice\Solution1\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+E:\jetbrain\practice\Solution1\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+E:\jetbrain\practice\Solution1\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+E:\jetbrain\practice\Solution1\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+E:\jetbrain\practice\Solution1\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.AssemblyReference.cache
+E:\jetbrain\practice\Solution1\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\jetbrain\practice\Solution1\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+E:\jetbrain\practice\Solution1\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+E:\jetbrain\practice\Solution1\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+E:\jetbrain\practice\Solution1\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+E:\jetbrain\practice\Solution1\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+E:\jetbrain\practice\Solution1\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+E:\jetbrain\practice\Solution1\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+E:\jetbrain\practice\Solution1\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll

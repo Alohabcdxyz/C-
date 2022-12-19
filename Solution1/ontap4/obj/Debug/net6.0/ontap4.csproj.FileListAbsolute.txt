@@ -1,0 +1,15 @@
+E:\jetbrain\practice\Solution1\ontap4\bin\Debug\net6.0\ontap4.exe
+E:\jetbrain\practice\Solution1\ontap4\bin\Debug\net6.0\ontap4.deps.json
+E:\jetbrain\practice\Solution1\ontap4\bin\Debug\net6.0\ontap4.runtimeconfig.json
+E:\jetbrain\practice\Solution1\ontap4\bin\Debug\net6.0\ontap4.dll
+E:\jetbrain\practice\Solution1\ontap4\bin\Debug\net6.0\ontap4.pdb
+E:\jetbrain\practice\Solution1\ontap4\obj\Debug\net6.0\ontap4.csproj.AssemblyReference.cache
+E:\jetbrain\practice\Solution1\ontap4\obj\Debug\net6.0\ontap4.GeneratedMSBuildEditorConfig.editorconfig
+E:\jetbrain\practice\Solution1\ontap4\obj\Debug\net6.0\ontap4.AssemblyInfoInputs.cache
+E:\jetbrain\practice\Solution1\ontap4\obj\Debug\net6.0\ontap4.AssemblyInfo.cs
+E:\jetbrain\practice\Solution1\ontap4\obj\Debug\net6.0\ontap4.csproj.CoreCompileInputs.cache
+E:\jetbrain\practice\Solution1\ontap4\obj\Debug\net6.0\ontap4.dll
+E:\jetbrain\practice\Solution1\ontap4\obj\Debug\net6.0\refint\ontap4.dll
+E:\jetbrain\practice\Solution1\ontap4\obj\Debug\net6.0\ontap4.pdb
+E:\jetbrain\practice\Solution1\ontap4\obj\Debug\net6.0\ontap4.genruntimeconfig.cache
+E:\jetbrain\practice\Solution1\ontap4\obj\Debug\net6.0\ref\ontap4.dll

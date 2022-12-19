@@ -1,0 +1,8 @@
+E:\jetbrain\practice\Solution1\Caculator\bin\Debug\Caculator.exe.config
+E:\jetbrain\practice\Solution1\Caculator\bin\Debug\Caculator.exe
+E:\jetbrain\practice\Solution1\Caculator\bin\Debug\Caculator.pdb
+E:\jetbrain\practice\Solution1\Caculator\obj\Debug\Caculator.csproj.AssemblyReference.cache
+E:\jetbrain\practice\Solution1\Caculator\obj\Debug\Caculator.csproj.SuggestedBindingRedirects.cache
+E:\jetbrain\practice\Solution1\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+E:\jetbrain\practice\Solution1\Caculator\obj\Debug\Caculator.exe
+E:\jetbrain\practice\Solution1\Caculator\obj\Debug\Caculator.pdb

@@ -1,0 +1,15 @@
+E:\jetbrain\practice\Solution1\Loop\bin\Debug\net6.0\Loop.exe
+E:\jetbrain\practice\Solution1\Loop\bin\Debug\net6.0\Loop.deps.json
+E:\jetbrain\practice\Solution1\Loop\bin\Debug\net6.0\Loop.runtimeconfig.json
+E:\jetbrain\practice\Solution1\Loop\bin\Debug\net6.0\Loop.dll
+E:\jetbrain\practice\Solution1\Loop\bin\Debug\net6.0\Loop.pdb
+E:\jetbrain\practice\Solution1\Loop\obj\Debug\net6.0\Loop.csproj.AssemblyReference.cache
+E:\jetbrain\practice\Solution1\Loop\obj\Debug\net6.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\jetbrain\practice\Solution1\Loop\obj\Debug\net6.0\Loop.AssemblyInfoInputs.cache
+E:\jetbrain\practice\Solution1\Loop\obj\Debug\net6.0\Loop.AssemblyInfo.cs
+E:\jetbrain\practice\Solution1\Loop\obj\Debug\net6.0\Loop.csproj.CoreCompileInputs.cache
+E:\jetbrain\practice\Solution1\Loop\obj\Debug\net6.0\Loop.dll
+E:\jetbrain\practice\Solution1\Loop\obj\Debug\net6.0\refint\Loop.dll
+E:\jetbrain\practice\Solution1\Loop\obj\Debug\net6.0\Loop.pdb
+E:\jetbrain\practice\Solution1\Loop\obj\Debug\net6.0\Loop.genruntimeconfig.cache
+E:\jetbrain\practice\Solution1\Loop\obj\Debug\net6.0\ref\Loop.dll

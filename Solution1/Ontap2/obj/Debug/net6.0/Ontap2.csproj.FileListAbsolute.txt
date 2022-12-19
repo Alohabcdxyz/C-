@@ -1,0 +1,15 @@
+E:\jetbrain\practice\Solution1\Ontap2\bin\Debug\net6.0\Ontap2.exe
+E:\jetbrain\practice\Solution1\Ontap2\bin\Debug\net6.0\Ontap2.deps.json
+E:\jetbrain\practice\Solution1\Ontap2\bin\Debug\net6.0\Ontap2.runtimeconfig.json
+E:\jetbrain\practice\Solution1\Ontap2\bin\Debug\net6.0\Ontap2.dll
+E:\jetbrain\practice\Solution1\Ontap2\bin\Debug\net6.0\Ontap2.pdb
+E:\jetbrain\practice\Solution1\Ontap2\obj\Debug\net6.0\Ontap2.csproj.AssemblyReference.cache
+E:\jetbrain\practice\Solution1\Ontap2\obj\Debug\net6.0\Ontap2.GeneratedMSBuildEditorConfig.editorconfig
+E:\jetbrain\practice\Solution1\Ontap2\obj\Debug\net6.0\Ontap2.AssemblyInfoInputs.cache
+E:\jetbrain\practice\Solution1\Ontap2\obj\Debug\net6.0\Ontap2.AssemblyInfo.cs
+E:\jetbrain\practice\Solution1\Ontap2\obj\Debug\net6.0\Ontap2.csproj.CoreCompileInputs.cache
+E:\jetbrain\practice\Solution1\Ontap2\obj\Debug\net6.0\Ontap2.dll
+E:\jetbrain\practice\Solution1\Ontap2\obj\Debug\net6.0\refint\Ontap2.dll
+E:\jetbrain\practice\Solution1\Ontap2\obj\Debug\net6.0\Ontap2.pdb
+E:\jetbrain\practice\Solution1\Ontap2\obj\Debug\net6.0\Ontap2.genruntimeconfig.cache
+E:\jetbrain\practice\Solution1\Ontap2\obj\Debug\net6.0\ref\Ontap2.dll

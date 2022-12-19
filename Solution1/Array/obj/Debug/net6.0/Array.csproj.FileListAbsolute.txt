@@ -1,0 +1,15 @@
+E:\jetbrain\practice\Solution1\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+E:\jetbrain\practice\Solution1\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\jetbrain\practice\Solution1\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+E:\jetbrain\practice\Solution1\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+E:\jetbrain\practice\Solution1\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+E:\jetbrain\practice\Solution1\Array\bin\Debug\net6.0\Array.exe
+E:\jetbrain\practice\Solution1\Array\bin\Debug\net6.0\Array.deps.json
+E:\jetbrain\practice\Solution1\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+E:\jetbrain\practice\Solution1\Array\bin\Debug\net6.0\Array.dll
+E:\jetbrain\practice\Solution1\Array\bin\Debug\net6.0\Array.pdb
+E:\jetbrain\practice\Solution1\Array\obj\Debug\net6.0\Array.dll
+E:\jetbrain\practice\Solution1\Array\obj\Debug\net6.0\refint\Array.dll
+E:\jetbrain\practice\Solution1\Array\obj\Debug\net6.0\Array.pdb
+E:\jetbrain\practice\Solution1\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+E:\jetbrain\practice\Solution1\Array\obj\Debug\net6.0\ref\Array.dll

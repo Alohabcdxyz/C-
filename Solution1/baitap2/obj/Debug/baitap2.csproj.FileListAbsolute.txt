@@ -1,0 +1,8 @@
+E:\jetbrain\practice\Solution1\baitap2\bin\Debug\baitap2.exe.config
+E:\jetbrain\practice\Solution1\baitap2\bin\Debug\baitap2.exe
+E:\jetbrain\practice\Solution1\baitap2\bin\Debug\baitap2.pdb
+E:\jetbrain\practice\Solution1\baitap2\obj\Debug\baitap2.csproj.AssemblyReference.cache
+E:\jetbrain\practice\Solution1\baitap2\obj\Debug\baitap2.csproj.SuggestedBindingRedirects.cache
+E:\jetbrain\practice\Solution1\baitap2\obj\Debug\baitap2.csproj.CoreCompileInputs.cache
+E:\jetbrain\practice\Solution1\baitap2\obj\Debug\baitap2.exe
+E:\jetbrain\practice\Solution1\baitap2\obj\Debug\baitap2.pdb

@@ -1,0 +1,8 @@
+E:\jetbrain\practice\Solution1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+E:\jetbrain\practice\Solution1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+E:\jetbrain\practice\Solution1\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+E:\jetbrain\practice\Solution1\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+E:\jetbrain\practice\Solution1\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+E:\jetbrain\practice\Solution1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+E:\jetbrain\practice\Solution1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+E:\jetbrain\practice\Solution1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb

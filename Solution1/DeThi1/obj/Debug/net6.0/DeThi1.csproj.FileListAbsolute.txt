@@ -1,0 +1,15 @@
+E:\jetbrain\practice\Solution1\DeThi1\bin\Debug\net6.0\DeThi1.exe
+E:\jetbrain\practice\Solution1\DeThi1\bin\Debug\net6.0\DeThi1.deps.json
+E:\jetbrain\practice\Solution1\DeThi1\bin\Debug\net6.0\DeThi1.runtimeconfig.json
+E:\jetbrain\practice\Solution1\DeThi1\bin\Debug\net6.0\DeThi1.dll
+E:\jetbrain\practice\Solution1\DeThi1\bin\Debug\net6.0\DeThi1.pdb
+E:\jetbrain\practice\Solution1\DeThi1\obj\Debug\net6.0\DeThi1.csproj.AssemblyReference.cache
+E:\jetbrain\practice\Solution1\DeThi1\obj\Debug\net6.0\DeThi1.GeneratedMSBuildEditorConfig.editorconfig
+E:\jetbrain\practice\Solution1\DeThi1\obj\Debug\net6.0\DeThi1.AssemblyInfoInputs.cache
+E:\jetbrain\practice\Solution1\DeThi1\obj\Debug\net6.0\DeThi1.AssemblyInfo.cs
+E:\jetbrain\practice\Solution1\DeThi1\obj\Debug\net6.0\DeThi1.csproj.CoreCompileInputs.cache
+E:\jetbrain\practice\Solution1\DeThi1\obj\Debug\net6.0\DeThi1.dll
+E:\jetbrain\practice\Solution1\DeThi1\obj\Debug\net6.0\refint\DeThi1.dll
+E:\jetbrain\practice\Solution1\DeThi1\obj\Debug\net6.0\DeThi1.pdb
+E:\jetbrain\practice\Solution1\DeThi1\obj\Debug\net6.0\DeThi1.genruntimeconfig.cache
+E:\jetbrain\practice\Solution1\DeThi1\obj\Debug\net6.0\ref\DeThi1.dll
